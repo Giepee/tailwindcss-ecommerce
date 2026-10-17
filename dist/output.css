@@ -926,6 +926,10 @@ select {
   height: 1.5rem;
 }
 
+.h-32 {
+  height: 8rem;
+}
+
 .h-10 {
   height: 2.5rem;
 }
@@ -940,10 +944,6 @@ select {
 
 .h-16 {
   height: 4rem;
-}
-
-.h-32 {
-  height: 8rem;
 }
 
 .max-h-full {
